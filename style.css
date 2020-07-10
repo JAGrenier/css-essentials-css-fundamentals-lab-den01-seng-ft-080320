@@ -11,6 +11,9 @@ nav a{background-color: lightgrey;
 margin-left: 1px;
 margin-right: 1px;
 }
+figcaption{
+  font-size: 10px;
+}
 #featured-property{
 width: 900px;
  margin: 0 auto;

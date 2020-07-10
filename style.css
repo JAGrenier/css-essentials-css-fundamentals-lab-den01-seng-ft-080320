@@ -9,3 +9,6 @@ header{
 #featured-property{
   text-align: center;
 }
+a:link{
+  background-color: grey;
+}

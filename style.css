@@ -27,7 +27,9 @@ font-size: 13px;
   text-align: center;
 
 }
-
+p#featured-property{
+  width: 800px;
+}
 
 #details{
 display: block;

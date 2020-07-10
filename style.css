@@ -7,7 +7,10 @@ body {
 header{
   text-align: center;
 }
-
+nav<a{background-color: lightgrey;
+margin-left: 10px;
+margin-right: 10px;
+}
 #featured-property{
 width: 900px;
  margin: 0 auto;
@@ -16,11 +19,7 @@ p#featured-property{
     width: 800px;
     margin: 0 auto;
 }
-a:link{
-  background-color: lightgrey;
-  margin-left: 10px;
-  margin-right: 10px;
-}
+
 
 #details{
 

@@ -21,11 +21,11 @@ a:link{
   margin-left: 10px;
   margin-right: 10px;
 }
-h3~a{
-  background-color: white;
-}
+
 #details{
 background-color: red;
+float: left;
+width: 100%;
 
 
 }

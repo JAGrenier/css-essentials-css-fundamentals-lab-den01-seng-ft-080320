@@ -34,8 +34,7 @@ font-size: 13px;
 #details div {
   width: 100px;
    padding: 10px;
-   background-color: rgba(111,41,97,.3);
-   border: 2px solid rgba(111,41,97,.5);
+   background-color: red; 
    display: inline-block;
    vertical-align: middle
 }

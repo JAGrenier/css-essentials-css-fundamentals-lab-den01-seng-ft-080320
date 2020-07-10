@@ -7,7 +7,7 @@ body {
 header{
   text-align: center;
 }
-nav{background-color: lightgrey;
+a#nav{background-color: lightgrey;
 margin-left: 10px;
 margin-right: 10px;
 }

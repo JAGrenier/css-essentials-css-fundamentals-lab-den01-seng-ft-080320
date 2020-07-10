@@ -21,7 +21,11 @@ a:link{
   margin-left: 10px;
   margin-right: 10px;
 }
+h3~link{
+  background-color: red;
+}
 #details{
 background-color: red;
+
 
 }

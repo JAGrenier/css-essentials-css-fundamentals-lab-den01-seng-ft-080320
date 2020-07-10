@@ -25,9 +25,10 @@ font-size: 13px;
 }
 #featured-property{
   text-align: center;
-
 }
-
+#featured-property p{
+  color: purple:
+}
 
 #details{
 display: block;

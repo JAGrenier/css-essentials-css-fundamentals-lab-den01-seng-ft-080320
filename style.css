@@ -32,7 +32,6 @@ font-size: 13px;
 }
 #details{
   background-color: red;
-  height:100px;
 }
 #details div {
    display: inline-block;

@@ -9,8 +9,9 @@ header{
 #featured-property{
   text-align: center;
 }
-p #featured-property{
-  width: 800px;
+p#featured-property{
+  text-align: left;
+  
 }
 a:link{
   background-color: lightgrey;

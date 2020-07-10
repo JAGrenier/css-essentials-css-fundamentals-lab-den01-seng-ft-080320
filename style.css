@@ -19,7 +19,9 @@ font-size: 13px;
 width: 900px;
  margin: 0 auto;
 }
-
+p#featured-property{
+  width: 800px; 
+}
 
 
 #details{

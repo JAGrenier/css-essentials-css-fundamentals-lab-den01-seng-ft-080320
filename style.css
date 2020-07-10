@@ -8,6 +8,7 @@ header{
 }
 p#featured-property{
   width: 800px;
+  background-color: black;
 }
 #featured-property{
   text-align: center;

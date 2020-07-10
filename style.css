@@ -32,8 +32,6 @@ font-size: 13px;
 }
 
 #details div {
-  width: 100px;
-   padding: 10px;
    background-color: red; 
    display: inline-block;
    vertical-align: middle

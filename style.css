@@ -32,8 +32,5 @@ font-size: 13px;
 }
 
 #details{
-display: block;
-background-color: red;
-
-
+display: inline-block;
 }

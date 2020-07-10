@@ -22,7 +22,15 @@ a:link{
   margin-right: 10px;
 }
 
+#details{
+display: block;
+background-color: red;
+float: left;
+width: 100%;
+height: 10rem;
 
+}
 div#details{
-  float: left;
+  text-align: center;
+  float: left; 
 }

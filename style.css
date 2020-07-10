@@ -10,8 +10,7 @@ header{
   text-align: center;
 
 }
-p#featured-property{
-  margin-left: 100px;
+p{
   width: 800px;
 }
 
@@ -20,4 +19,7 @@ a:link{
   background-color: lightgrey;
   margin-left: 10px;
   margin-right: 10px;
+}
+#details{
+
 }

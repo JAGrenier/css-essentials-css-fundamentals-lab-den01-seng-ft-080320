@@ -27,8 +27,8 @@ font-size: 13px;
   text-align: center;
 
 }
-p{
-  width: 800px;
+p#featured-property{
+  width: 800px
 }
 
 #details{

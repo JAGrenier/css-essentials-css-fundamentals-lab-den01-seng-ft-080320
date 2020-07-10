@@ -24,7 +24,6 @@ p#featured-property{
 #details{
 display: block;
 background-color: red;
-float: left;
-width: 25%;
+
 
 }

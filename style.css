@@ -9,7 +9,7 @@ header{
 #featured-property{
   text-align: center;
 }
-p#featured-property{
+p #featured-property{
   width: 800px;
 }
 a:link{

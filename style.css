@@ -21,8 +21,8 @@ a:link{
   margin-left: 10px;
   margin-right: 10px;
 }
-h3~a.link{
-  background-color: red;
+h3~ink{
+  background-color: white;
 }
 #details{
 background-color: red;

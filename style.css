@@ -33,7 +33,7 @@ font-size: 13px;
 #details{
   background-color: red;
   display: flex;
-  justify-content: flex-end;;
+  justify-content: center;
 }
 #details div {
    display: inline-block;

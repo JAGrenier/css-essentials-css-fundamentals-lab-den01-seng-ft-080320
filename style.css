@@ -11,4 +11,6 @@ header{
 }
 a:link{
   background-color: lightgrey;
+  margin-left: 10px;
+  margin-right: 10px;
 }

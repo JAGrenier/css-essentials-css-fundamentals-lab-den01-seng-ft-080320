@@ -22,7 +22,9 @@ p#featured-property{
 
 
 #details{
+
 background-color: red;
+float: left;
 width: 25%;
 
 }

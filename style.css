@@ -8,8 +8,8 @@ header{
   text-align: center;
 }
 nav a{background-color: lightgrey;
-margin-left: 10px;
-margin-right: 10px;
+margin-left: 1px;
+margin-right: 1px;
 }
 #featured-property{
 width: 900px;

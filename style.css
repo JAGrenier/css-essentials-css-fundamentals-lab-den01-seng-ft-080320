@@ -2,7 +2,7 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: 0 auto;
 }
 header{
   text-align: center;
@@ -20,7 +20,7 @@ width: 900px;
  margin: 0 auto;
 }
 p#featured-property{
-  width: 800px; 
+  width: 800px;
 }
 
 

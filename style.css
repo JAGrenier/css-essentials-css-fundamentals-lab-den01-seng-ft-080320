@@ -16,7 +16,7 @@ p#featured-property{
     width: 800px;
     margin: 0 auto;
 }
-a:link{
+a#nav{
   background-color: lightgrey;
   margin-left: 10px;
   margin-right: 10px;

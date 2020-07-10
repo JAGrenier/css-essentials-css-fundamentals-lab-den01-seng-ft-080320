@@ -30,7 +30,9 @@ font-size: 13px;
   width: 800px;
   margin-left: 550px;
 }
-
+#details{
+  background-color: red;
+}
 #details div {
    background-color: red;
    display: inline-block;

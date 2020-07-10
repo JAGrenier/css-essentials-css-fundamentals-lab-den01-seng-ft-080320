@@ -15,10 +15,8 @@ figcaption{
 font-size: 13px;
   text-align: center;
 }
-figure{
+a:img{
   text-align: center;
-width: 900px;
- margin: 0 auto;
 }
 p#featured-property{
   width: 800px;
